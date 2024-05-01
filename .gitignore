@@ -14,3 +14,10 @@ Cargo.lock
 *.pdb
 
 .DS_Store
+
+# remove the dither_images.py I keep locally for development
+dither_images.py
+*.py
+*.pyc 
+__pycache__/
+.vscode/
