@@ -1,0 +1,1 @@
+https://github.com/lowtechmag/solar_v2/blob/main/utils/dither_images.py

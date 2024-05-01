@@ -1,0 +1,11 @@
+[package]
+edition = "2021"
+name = "dither_rs"
+version = "0.1.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+dither = "0.3.2"
+image = "0.24.3"
+walkdir = "2.3.2"
