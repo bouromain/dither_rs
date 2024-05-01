@@ -1,6 +1,6 @@
 # Dither_rs
 
-This package is a simple cli application to get more familiar and learn rust.
+This package is a simple cli application to get more familiar with and learn rust.
 
 It will replicate the function of the following code: 
 https://github.com/lowtechmag/solar_v2/blob/main/utils/dither_images.py
