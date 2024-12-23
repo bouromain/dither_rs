@@ -17,7 +17,7 @@ In brief, it will:
 
 ```
 # Clone the repository
-git clone https://github.com/yourusername/dither_rs.git
+git clone https://github.com/bouromain/dither_rs.git
 
 # Navigate to the project directory
 cd dither_rs
